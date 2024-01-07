@@ -24,7 +24,7 @@ void storeRawDataToFile(char *filename, char *apiEndpoint, char *apiKey, char *q
     curl = curl_easy_init();
     if (curl) {
         // Open file for writing in binary mode
-        FILE *file = fopen(filename, "wb");
+        FILE *file = fopen(filename, "ab");
 
         // Set up data structure to pass to write callback
         struct WriteCallbackData writeCallbackData = { file };

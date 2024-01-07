@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <curl/curl.h>
-
 #define API_KEY "fdd9a1c519e14cae908190928231812"
 #define API_ENDPOINT "https://api.weatherapi.com/v1/"
 
@@ -22,7 +21,7 @@ void retrieveWeatherData(char *apiEndpoint, char *apiKey, char *filename, char *
         curl_easy_setopt(curl, CURLOPT_URL, url);
         curl_easy_setopt(curl, CURLOPT_WRITEFUNCTION, write_callback);
 
-        FILE *file = fopen(filename, "wb");
+        FILE *file = fopen(filename, "ab");
 
         if (file) {
             curl_easy_setopt(curl, CURLOPT_WRITEDATA, file);
