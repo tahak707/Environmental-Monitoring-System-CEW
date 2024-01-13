@@ -12,8 +12,13 @@
 
 volatile sig_atomic_t alertFlag = 0;
 
-void sendEmail(const char *subject, const char *body) {
+FILE *logFile;
+
+void sendEmailWithLog(const char *subject, const char *body) {
     char command[512];
+
+    // Update the log file
+    fprintf(logFile, "%s\n", body);
 
     // Construct the mail command
     snprintf(command, sizeof(command),
@@ -31,6 +36,7 @@ void sendEmail(const char *subject, const char *body) {
 }
 
 
+
 // Signal handler for alerts
 void handleAlertSignal(int signum) {
     if (signum == SIGALRM) {
@@ -43,6 +49,12 @@ void handleAlertSignal(int signum) {
 
 int main(int argc, char *argv[]) {
     char *apikey = API_KEY;
+    
+    logFile = fopen("anomaly_log.txt", "a");
+    if (!logFile) {
+        fprintf(stderr, "Error opening log file for writing.\n");
+        return 1;
+    }
 
     // Register the signal handler
     signal(SIGALRM, handleAlertSignal);
@@ -71,7 +83,7 @@ int main(int argc, char *argv[]) {
             case 'h':
                 snprintf(apiEndpoint, sizeof(apiEndpoint), "%s%s", API_ENDPOINT, "history.json");
                 char date[11];
-                printf("Enter date in YYYY-MM-DD format (within last 365 days): ");
+                printf("Enter date in YYYY-MM-DD format (within last 2 weeks): ");
                 scanf("%s", date);
                 sprintf(argv[3], "%s&dt=%s", argv[3], date);
                 retrieveWeatherData(apiEndpoint, apikey, argv[2], argv[3]);
@@ -92,29 +104,43 @@ int main(int argc, char *argv[]) {
         }
 
         // Ask user if they want to process the data
-        printf("Do you want to process the data? (Y/N): ");
-        char s;
-        scanf(" %c", &s);
-        if (s == 'Y' || s == 'y') {
+        while(1){
+        printf("Choose options:\n1) RETRIEVE DATA\n2) PROCESS DATA\n3) GENERATE REPORT\n4) EXIT\n");
+        char Opt;
+        scanf(" %c", &Opt);
+        switch(Opt){
+        case '1':
+            system("./retrieve_data.sh");
+            break;
+        case '2':
             system("./process_data.sh");
-        } else if (s == 'N' || s == 'n') {
-            printf("Exiting\n");
-        } else {
-            printf("Invalid input. Exiting\n");
-        }
+            break;
+        case '3':
+            system("./report_gen.sh");
+            break;
+        case '4':
+            printf("Exiting the program.\n");
+            return 0;
+            break;
+        default:
+            printf("Invalid option: %c\n", Opt);
+            return 1;
+        
+        }}
+        
     } else if (strcmp(option, "-dp") == 0) {
         // Data processing
         processRawData(argv[2]);
         // Send email alert if an anomaly is detected
         if (alertFlag) {
-            sendEmail("Environmental Alert", "Critical Anomaly detected !");
+            sendEmailWithLog("Environmental Alert", "Critical Anomaly detected !");
             // Reset the alert flag
             alertFlag = 0;
         }
-        }else if (strcmp(option, "-rg") == 0){
+    } else if (strcmp(option, "-rg") == 0){
         
         // Report generation
-        // generateWeatherReport(argv[2]);
+        generateWeatherReport(argv[2]);
     } else {
         printf("Invalid option: %s\n", option);
         return 1;
@@ -123,14 +149,15 @@ int main(int argc, char *argv[]) {
     // Set up a timer for periodic checks (e.g., every 5 minutes)
     alarm(300);  // 300 seconds = 5 minutes
 
-    // Main loop
+    
+    fclose(logFile);
     while (!alertFlag) {
-        // Your existing main loop logic
+       
 
-        // Sleep for a short duration before the next iteration
-        sleep(1);
+        if(alertFlag){
+          break;
     }
 
     return 0;
-}
+}}
 

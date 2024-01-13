@@ -5,22 +5,44 @@
 #include <unistd.h>
 #include <sys/types.h>
 #include <sys/wait.h>
-
+#include <string.h>
 
 // Function to send email alerts
 
+// Function to send email alerts and update the log file
 void detectAnomalies(float value, const char *name, float threshold) {
+    // Hardcoded precautions based on the anomaly type
+    const char *temperaturePrecaution = "Take necessary measures to stay cool.";
+    const char *windSpeedPrecaution = "Secure outdoor objects and be cautious of strong winds.";
+    const char *precipitationPrecaution = "Be prepared for wet weather and consider indoor activities.";
+
     if (value > threshold) {
         printf("%s anomaly detected: %g\n", name, value);
 
-        // Send an email alert
-        char subject[256];
-        char body[256];
-        snprintf(subject, sizeof(subject), "Critical Anomaly Detected: %s", name);
-        snprintf(body, sizeof(body), "Critical anomaly detected in %s: %g", name, value);
-        sendEmail(subject, body);
+        const char *precaution = NULL;
+
+        // Determine the type of anomaly and set the appropriate precaution
+        if (strcmp(name, "Temperature") == 0) {
+            precaution = temperaturePrecaution;
+        } else if (strcmp(name, "Wind Speed") == 0) {
+            precaution = windSpeedPrecaution;
+        } else if (strcmp(name, "Precipitation") == 0) {
+            precaution = precipitationPrecaution;
+        }
+
+        if (precaution) {
+            // Send an email alert with the relevant precaution
+            char subject[256];
+            char body[256];
+            snprintf(subject, sizeof(subject), "Critical Anomaly Detected: %s", name);
+            snprintf(body, sizeof(body), "Critical anomaly detected in %s: %g\nPrecaution: %s", name, value, precaution);
+            sendEmailWithLog(subject, body);
+        } else {
+            fprintf(stderr, "Error: Unknown anomaly type.\n");
+        }
     }
 }
+
 
 typedef struct {
     const char *date;
@@ -49,7 +71,7 @@ void processCurrentData(json_t *current, FILE *outputFile) {
         fprintf(outputFile, "Humidity : %lld\n", json_integer_value(humidity));
         fprintf(outputFile, "Precipitation (mm): %g\n", json_real_value(precip_mm));
         fprintf(outputFile, "Wind Speed (kph): %g\n", json_real_value(wind_kph));
-        fprintf(outputFile, "Current Condition: %s\n", json_string_value(json_object_get(condition, "text")));
+        fprintf(outputFile, "Condition: %s\n", json_string_value(json_object_get(condition, "text")));
 
         // Detect anomalies
         detectAnomalies(json_real_value(temp_c), "Temperature", 20.0);

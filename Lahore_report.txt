@@ -1,0 +1,344 @@
+Detailed Weather Report
+------------------------
+Temperature: 9.0 °C
+Humidity: 76%
+Wind Speed: 3.60 km/h
+Condition: Overcast
+Condition: Partly cloudy
+
+Time: 2024-01-13 00:00
+Temperature: 13.8 °C
+Wind Speed: 5.00 km/h
+Visibility: 10 km
+Humidity: 0%
+Condition: Overcast
+
+Time: 2024-01-13 01:00
+Temperature: 13.5 °C
+Wind Speed: 5.00 km/h
+Visibility: 10 km
+Humidity: 0%
+Condition: Overcast
+
+Time: 2024-01-13 02:00
+Temperature: 13.3 °C
+Wind Speed: 5.80 km/h
+Visibility: 10 km
+Humidity: 0%
+Condition: Overcast
+
+Time: 2024-01-13 03:00
+Temperature: 13.1 °C
+Wind Speed: 5.00 km/h
+Visibility: 10 km
+Humidity: 0%
+Condition: Overcast
+
+Time: 2024-01-13 04:00
+Temperature: 12.8 °C
+Wind Speed: 4.30 km/h
+Visibility: 10 km
+Humidity: 0%
+Condition: Overcast
+
+Time: 2024-01-13 05:00
+Temperature: 12.7 °C
+Wind Speed: 3.20 km/h
+Visibility: 10 km
+Humidity: 0%
+Condition: Overcast
+
+Time: 2024-01-13 06:00
+Temperature: 12.6 °C
+Wind Speed: 2.50 km/h
+Visibility: 10 km
+Humidity: 0%
+Condition: Overcast
+
+Time: 2024-01-13 07:00
+Temperature: 12.0 °C
+Wind Speed: 1.80 km/h
+Visibility: 10 km
+Humidity: 0%
+Condition: Overcast
+
+Time: 2024-01-13 08:00
+Temperature: 13.5 °C
+Wind Speed: 2.20 km/h
+Visibility: 10 km
+Humidity: 0%
+Condition: Partly cloudy
+
+Time: 2024-01-13 09:00
+Temperature: 16.1 °C
+Wind Speed: 2.90 km/h
+Visibility: 10 km
+Humidity: 0%
+Condition: Sunny
+
+Time: 2024-01-13 10:00
+Temperature: 18.9 °C
+Wind Speed: 2.20 km/h
+Visibility: 10 km
+Humidity: 0%
+Condition: Sunny
+
+Time: 2024-01-13 11:00
+Temperature: 21.1 °C
+Wind Speed: 4.00 km/h
+Visibility: 10 km
+Humidity: 0%
+Condition: Sunny
+
+Time: 2024-01-13 12:00
+Temperature: 22.6 °C
+Wind Speed: 5.00 km/h
+Visibility: 10 km
+Humidity: 0%
+Condition: Sunny
+
+Time: 2024-01-13 13:00
+Temperature: 23.5 °C
+Wind Speed: 7.20 km/h
+Visibility: 10 km
+Humidity: 0%
+Condition: Sunny
+
+Time: 2024-01-13 14:00
+Temperature: 24.0 °C
+Wind Speed: 7.60 km/h
+Visibility: 10 km
+Humidity: 0%
+Condition: Sunny
+
+Time: 2024-01-13 15:00
+Temperature: 24.1 °C
+Wind Speed: 6.80 km/h
+Visibility: 10 km
+Humidity: 0%
+Condition: Sunny
+
+Time: 2024-01-13 16:00
+Temperature: 23.5 °C
+Wind Speed: 5.00 km/h
+Visibility: 10 km
+Humidity: 0%
+Condition: Sunny
+
+Time: 2024-01-13 17:00
+Temperature: 19.3 °C
+Wind Speed: 2.50 km/h
+Visibility: 10 km
+Humidity: 0%
+Condition: Sunny
+
+Time: 2024-01-13 18:00
+Temperature: 17.0 °C
+Wind Speed: 1.40 km/h
+Visibility: 10 km
+Humidity: 0%
+Condition: Clear
+
+Time: 2024-01-13 19:00
+Temperature: 9.0 °C
+Wind Speed: 3.60 km/h
+Visibility: 2 km
+Humidity: 0%
+Condition: Overcast
+
+Time: 2024-01-13 20:00
+Temperature: 15.5 °C
+Wind Speed: 0.70 km/h
+Visibility: 10 km
+Humidity: 0%
+Condition: Clear
+
+Time: 2024-01-13 21:00
+Temperature: 14.8 °C
+Wind Speed: 2.20 km/h
+Visibility: 10 km
+Humidity: 0%
+Condition: Clear
+
+Time: 2024-01-13 22:00
+Temperature: 14.1 °C
+Wind Speed: 4.00 km/h
+Visibility: 10 km
+Humidity: 0%
+Condition: Clear
+
+Time: 2024-01-13 23:00
+Temperature: 13.4 °C
+Wind Speed: 4.30 km/h
+Visibility: 10 km
+Humidity: 0%
+Condition: Clear
+Condition: Sunny
+
+Time: 2024-01-14 00:00
+Temperature: 12.9 °C
+Wind Speed: 4.00 km/h
+Visibility: 10 km
+Humidity: 0%
+Condition: Clear
+
+Time: 2024-01-14 01:00
+Temperature: 12.3 °C
+Wind Speed: 4.00 km/h
+Visibility: 10 km
+Humidity: 0%
+Condition: Clear
+
+Time: 2024-01-14 02:00
+Temperature: 11.7 °C
+Wind Speed: 4.00 km/h
+Visibility: 10 km
+Humidity: 0%
+Condition: Clear
+
+Time: 2024-01-14 03:00
+Temperature: 11.1 °C
+Wind Speed: 4.30 km/h
+Visibility: 10 km
+Humidity: 0%
+Condition: Clear
+
+Time: 2024-01-14 04:00
+Temperature: 10.7 °C
+Wind Speed: 4.30 km/h
+Visibility: 10 km
+Humidity: 0%
+Condition: Clear
+
+Time: 2024-01-14 05:00
+Temperature: 10.3 °C
+Wind Speed: 3.60 km/h
+Visibility: 10 km
+Humidity: 0%
+Condition: Clear
+
+Time: 2024-01-14 06:00
+Temperature: 10.0 °C
+Wind Speed: 2.90 km/h
+Visibility: 10 km
+Humidity: 0%
+Condition: Clear
+
+Time: 2024-01-14 07:00
+Temperature: 9.8 °C
+Wind Speed: 2.50 km/h
+Visibility: 10 km
+Humidity: 0%
+Condition: Clear
+
+Time: 2024-01-14 08:00
+Temperature: 11.8 °C
+Wind Speed: 2.20 km/h
+Visibility: 10 km
+Humidity: 0%
+Condition: Sunny
+
+Time: 2024-01-14 09:00
+Temperature: 15.6 °C
+Wind Speed: 3.60 km/h
+Visibility: 10 km
+Humidity: 0%
+Condition: Sunny
+
+Time: 2024-01-14 10:00
+Temperature: 18.6 °C
+Wind Speed: 5.80 km/h
+Visibility: 10 km
+Humidity: 0%
+Condition: Sunny
+
+Time: 2024-01-14 11:00
+Temperature: 20.8 °C
+Wind Speed: 7.90 km/h
+Visibility: 10 km
+Humidity: 0%
+Condition: Sunny
+
+Time: 2024-01-14 12:00
+Temperature: 22.5 °C
+Wind Speed: 9.70 km/h
+Visibility: 10 km
+Humidity: 0%
+Condition: Sunny
+
+Time: 2024-01-14 13:00
+Temperature: 23.7 °C
+Wind Speed: 11.20 km/h
+Visibility: 10 km
+Humidity: 0%
+Condition: Sunny
+
+Time: 2024-01-14 14:00
+Temperature: 24.4 °C
+Wind Speed: 11.50 km/h
+Visibility: 10 km
+Humidity: 0%
+Condition: Sunny
+
+Time: 2024-01-14 15:00
+Temperature: 24.4 °C
+Wind Speed: 10.40 km/h
+Visibility: 10 km
+Humidity: 0%
+Condition: Sunny
+
+Time: 2024-01-14 16:00
+Temperature: 23.8 °C
+Wind Speed: 9.40 km/h
+Visibility: 10 km
+Humidity: 0%
+Condition: Sunny
+
+Time: 2024-01-14 17:00
+Temperature: 19.8 °C
+Wind Speed: 6.80 km/h
+Visibility: 10 km
+Humidity: 0%
+Condition: Sunny
+
+Time: 2024-01-14 18:00
+Temperature: 17.1 °C
+Wind Speed: 6.10 km/h
+Visibility: 10 km
+Humidity: 0%
+Condition: Clear
+
+Time: 2024-01-14 19:00
+Temperature: 16.0 °C
+Wind Speed: 5.80 km/h
+Visibility: 10 km
+Humidity: 0%
+Condition: Clear
+
+Time: 2024-01-14 20:00
+Temperature: 15.1 °C
+Wind Speed: 4.70 km/h
+Visibility: 10 km
+Humidity: 0%
+Condition: Clear
+
+Time: 2024-01-14 21:00
+Temperature: 14.4 °C
+Wind Speed: 4.00 km/h
+Visibility: 10 km
+Humidity: 0%
+Condition: Clear
+
+Time: 2024-01-14 22:00
+Temperature: 13.8 °C
+Wind Speed: 4.00 km/h
+Visibility: 10 km
+Humidity: 0%
+Condition: Clear
+
+Time: 2024-01-14 23:00
+Temperature: 13.4 °C
+Wind Speed: 5.40 km/h
+Visibility: 10 km
+Humidity: 0%
+Condition: Clear

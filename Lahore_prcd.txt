@@ -1,0 +1,515 @@
+Current Data:
+Temperature C:  9
+Humidity : 76
+Precipitation (mm): 0
+Wind Speed (kph): 3.6
+Condition: Overcast
+
+Forecast Data:
+Date: 2024-01-13
+Day 1:
+Average Temperature C: 15.7
+Max Temperature C: 23.2
+Min Temperature C: 10.9
+Max Wind Speed (kph): 7.2
+Chance of Rain : 0 %
+Chance of Snow : 0 %
+Average Humidity : 0 %
+Average Visibility (km): 10
+Total Precipitation (mm): 0
+Condition: Partly cloudy
+Hourly Stats:
+Time: 2024-01-13 00:00
+Temperature C: 13.8
+Wind Speed (kph): 5
+Chance of Rain : 0 %
+Chance of Snow : 0 %
+Visibility (km): 10
+Humidity : 0 %
+Total Precipitation (mm): 0
+Condition: Overcast
+
+Time: 2024-01-13 01:00
+Temperature C: 13.5
+Wind Speed (kph): 5
+Chance of Rain : 0 %
+Chance of Snow : 0 %
+Visibility (km): 10
+Humidity : 0 %
+Total Precipitation (mm): 0
+Condition: Overcast
+
+Time: 2024-01-13 02:00
+Temperature C: 13.3
+Wind Speed (kph): 5.8
+Chance of Rain : 0 %
+Chance of Snow : 0 %
+Visibility (km): 10
+Humidity : 0 %
+Total Precipitation (mm): 0
+Condition: Overcast
+
+Time: 2024-01-13 03:00
+Temperature C: 13.1
+Wind Speed (kph): 5
+Chance of Rain : 0 %
+Chance of Snow : 0 %
+Visibility (km): 10
+Humidity : 0 %
+Total Precipitation (mm): 0
+Condition: Overcast
+
+Time: 2024-01-13 04:00
+Temperature C: 12.8
+Wind Speed (kph): 4.3
+Chance of Rain : 0 %
+Chance of Snow : 0 %
+Visibility (km): 10
+Humidity : 0 %
+Total Precipitation (mm): 0
+Condition: Overcast
+
+Time: 2024-01-13 05:00
+Temperature C: 12.7
+Wind Speed (kph): 3.2
+Chance of Rain : 0 %
+Chance of Snow : 0 %
+Visibility (km): 10
+Humidity : 0 %
+Total Precipitation (mm): 0
+Condition: Overcast
+
+Time: 2024-01-13 06:00
+Temperature C: 12.6
+Wind Speed (kph): 2.5
+Chance of Rain : 0 %
+Chance of Snow : 0 %
+Visibility (km): 10
+Humidity : 0 %
+Total Precipitation (mm): 0
+Condition: Overcast
+
+Time: 2024-01-13 07:00
+Temperature C: 12
+Wind Speed (kph): 1.8
+Chance of Rain : 0 %
+Chance of Snow : 0 %
+Visibility (km): 10
+Humidity : 0 %
+Total Precipitation (mm): 0
+Condition: Overcast
+
+Time: 2024-01-13 08:00
+Temperature C: 13.5
+Wind Speed (kph): 2.2
+Chance of Rain : 0 %
+Chance of Snow : 0 %
+Visibility (km): 10
+Humidity : 0 %
+Total Precipitation (mm): 0
+Condition: Partly cloudy
+
+Time: 2024-01-13 09:00
+Temperature C: 16.1
+Wind Speed (kph): 2.9
+Chance of Rain : 0 %
+Chance of Snow : 0 %
+Visibility (km): 10
+Humidity : 0 %
+Total Precipitation (mm): 0
+Condition: Sunny
+
+Time: 2024-01-13 10:00
+Temperature C: 18.9
+Wind Speed (kph): 2.2
+Chance of Rain : 0 %
+Chance of Snow : 0 %
+Visibility (km): 10
+Humidity : 0 %
+Total Precipitation (mm): 0
+Condition: Sunny
+
+Time: 2024-01-13 11:00
+Temperature C: 21.1
+Wind Speed (kph): 4
+Chance of Rain : 0 %
+Chance of Snow : 0 %
+Visibility (km): 10
+Humidity : 0 %
+Total Precipitation (mm): 0
+Condition: Sunny
+
+Time: 2024-01-13 12:00
+Temperature C: 22.6
+Wind Speed (kph): 5
+Chance of Rain : 0 %
+Chance of Snow : 0 %
+Visibility (km): 10
+Humidity : 0 %
+Total Precipitation (mm): 0
+Condition: Sunny
+
+Time: 2024-01-13 13:00
+Temperature C: 23.5
+Wind Speed (kph): 7.2
+Chance of Rain : 0 %
+Chance of Snow : 0 %
+Visibility (km): 10
+Humidity : 0 %
+Total Precipitation (mm): 0
+Condition: Sunny
+
+Time: 2024-01-13 14:00
+Temperature C: 24
+Wind Speed (kph): 7.6
+Chance of Rain : 0 %
+Chance of Snow : 0 %
+Visibility (km): 10
+Humidity : 0 %
+Total Precipitation (mm): 0
+Condition: Sunny
+
+Time: 2024-01-13 15:00
+Temperature C: 24.1
+Wind Speed (kph): 6.8
+Chance of Rain : 0 %
+Chance of Snow : 0 %
+Visibility (km): 10
+Humidity : 0 %
+Total Precipitation (mm): 0
+Condition: Sunny
+
+Time: 2024-01-13 16:00
+Temperature C: 23.5
+Wind Speed (kph): 5
+Chance of Rain : 0 %
+Chance of Snow : 0 %
+Visibility (km): 10
+Humidity : 0 %
+Total Precipitation (mm): 0
+Condition: Sunny
+
+Time: 2024-01-13 17:00
+Temperature C: 19.3
+Wind Speed (kph): 2.5
+Chance of Rain : 0 %
+Chance of Snow : 0 %
+Visibility (km): 10
+Humidity : 0 %
+Total Precipitation (mm): 0
+Condition: Sunny
+
+Time: 2024-01-13 18:00
+Temperature C: 17
+Wind Speed (kph): 1.4
+Chance of Rain : 0 %
+Chance of Snow : 0 %
+Visibility (km): 10
+Humidity : 0 %
+Total Precipitation (mm): 0
+Condition: Clear
+
+Time: 2024-01-13 19:00
+Temperature C: 9
+Wind Speed (kph): 3.6
+Chance of Rain : 0 %
+Chance of Snow : 0 %
+Visibility (km): 2
+Humidity : 0 %
+Total Precipitation (mm): 0
+Condition: Overcast
+
+Time: 2024-01-13 20:00
+Temperature C: 15.5
+Wind Speed (kph): 0.7
+Chance of Rain : 0 %
+Chance of Snow : 0 %
+Visibility (km): 10
+Humidity : 0 %
+Total Precipitation (mm): 0
+Condition: Clear
+
+Time: 2024-01-13 21:00
+Temperature C: 14.8
+Wind Speed (kph): 2.2
+Chance of Rain : 0 %
+Chance of Snow : 0 %
+Visibility (km): 10
+Humidity : 0 %
+Total Precipitation (mm): 0
+Condition: Clear
+
+Time: 2024-01-13 22:00
+Temperature C: 14.1
+Wind Speed (kph): 4
+Chance of Rain : 0 %
+Chance of Snow : 0 %
+Visibility (km): 10
+Humidity : 0 %
+Total Precipitation (mm): 0
+Condition: Clear
+
+Time: 2024-01-13 23:00
+Temperature C: 13.4
+Wind Speed (kph): 4.3
+Chance of Rain : 0 %
+Chance of Snow : 0 %
+Visibility (km): 10
+Humidity : 0 %
+Total Precipitation (mm): 0
+Condition: Clear
+
+Date: 2024-01-14
+Day 2:
+Average Temperature C: 15.4
+Max Temperature C: 23.8
+Min Temperature C: 9.2
+Max Wind Speed (kph): 10.1
+Chance of Rain : 0 %
+Chance of Snow : 0 %
+Average Humidity : 0 %
+Average Visibility (km): 10
+Total Precipitation (mm): 0
+Condition: Sunny
+Hourly Stats:
+Time: 2024-01-14 00:00
+Temperature C: 12.9
+Wind Speed (kph): 4
+Chance of Rain : 0 %
+Chance of Snow : 0 %
+Visibility (km): 10
+Humidity : 0 %
+Total Precipitation (mm): 0
+Condition: Clear
+
+Time: 2024-01-14 01:00
+Temperature C: 12.3
+Wind Speed (kph): 4
+Chance of Rain : 0 %
+Chance of Snow : 0 %
+Visibility (km): 10
+Humidity : 0 %
+Total Precipitation (mm): 0
+Condition: Clear
+
+Time: 2024-01-14 02:00
+Temperature C: 11.7
+Wind Speed (kph): 4
+Chance of Rain : 0 %
+Chance of Snow : 0 %
+Visibility (km): 10
+Humidity : 0 %
+Total Precipitation (mm): 0
+Condition: Clear
+
+Time: 2024-01-14 03:00
+Temperature C: 11.1
+Wind Speed (kph): 4.3
+Chance of Rain : 0 %
+Chance of Snow : 0 %
+Visibility (km): 10
+Humidity : 0 %
+Total Precipitation (mm): 0
+Condition: Clear
+
+Time: 2024-01-14 04:00
+Temperature C: 10.7
+Wind Speed (kph): 4.3
+Chance of Rain : 0 %
+Chance of Snow : 0 %
+Visibility (km): 10
+Humidity : 0 %
+Total Precipitation (mm): 0
+Condition: Clear
+
+Time: 2024-01-14 05:00
+Temperature C: 10.3
+Wind Speed (kph): 3.6
+Chance of Rain : 0 %
+Chance of Snow : 0 %
+Visibility (km): 10
+Humidity : 0 %
+Total Precipitation (mm): 0
+Condition: Clear
+
+Time: 2024-01-14 06:00
+Temperature C: 10
+Wind Speed (kph): 2.9
+Chance of Rain : 0 %
+Chance of Snow : 0 %
+Visibility (km): 10
+Humidity : 0 %
+Total Precipitation (mm): 0
+Condition: Clear
+
+Time: 2024-01-14 07:00
+Temperature C: 9.8
+Wind Speed (kph): 2.5
+Chance of Rain : 0 %
+Chance of Snow : 0 %
+Visibility (km): 10
+Humidity : 0 %
+Total Precipitation (mm): 0
+Condition: Clear
+
+Time: 2024-01-14 08:00
+Temperature C: 11.8
+Wind Speed (kph): 2.2
+Chance of Rain : 0 %
+Chance of Snow : 0 %
+Visibility (km): 10
+Humidity : 0 %
+Total Precipitation (mm): 0
+Condition: Sunny
+
+Time: 2024-01-14 09:00
+Temperature C: 15.6
+Wind Speed (kph): 3.6
+Chance of Rain : 0 %
+Chance of Snow : 0 %
+Visibility (km): 10
+Humidity : 0 %
+Total Precipitation (mm): 0
+Condition: Sunny
+
+Time: 2024-01-14 10:00
+Temperature C: 18.6
+Wind Speed (kph): 5.8
+Chance of Rain : 0 %
+Chance of Snow : 0 %
+Visibility (km): 10
+Humidity : 0 %
+Total Precipitation (mm): 0
+Condition: Sunny
+
+Time: 2024-01-14 11:00
+Temperature C: 20.8
+Wind Speed (kph): 7.9
+Chance of Rain : 0 %
+Chance of Snow : 0 %
+Visibility (km): 10
+Humidity : 0 %
+Total Precipitation (mm): 0
+Condition: Sunny
+
+Time: 2024-01-14 12:00
+Temperature C: 22.5
+Wind Speed (kph): 9.7
+Chance of Rain : 0 %
+Chance of Snow : 0 %
+Visibility (km): 10
+Humidity : 0 %
+Total Precipitation (mm): 0
+Condition: Sunny
+
+Time: 2024-01-14 13:00
+Temperature C: 23.7
+Wind Speed (kph): 11.2
+Chance of Rain : 0 %
+Chance of Snow : 0 %
+Visibility (km): 10
+Humidity : 0 %
+Total Precipitation (mm): 0
+Condition: Sunny
+
+Time: 2024-01-14 14:00
+Temperature C: 24.4
+Wind Speed (kph): 11.5
+Chance of Rain : 0 %
+Chance of Snow : 0 %
+Visibility (km): 10
+Humidity : 0 %
+Total Precipitation (mm): 0
+Condition: Sunny
+
+Time: 2024-01-14 15:00
+Temperature C: 24.4
+Wind Speed (kph): 10.4
+Chance of Rain : 0 %
+Chance of Snow : 0 %
+Visibility (km): 10
+Humidity : 0 %
+Total Precipitation (mm): 0
+Condition: Sunny
+
+Time: 2024-01-14 16:00
+Temperature C: 23.8
+Wind Speed (kph): 9.4
+Chance of Rain : 0 %
+Chance of Snow : 0 %
+Visibility (km): 10
+Humidity : 0 %
+Total Precipitation (mm): 0
+Condition: Sunny
+
+Time: 2024-01-14 17:00
+Temperature C: 19.8
+Wind Speed (kph): 6.8
+Chance of Rain : 0 %
+Chance of Snow : 0 %
+Visibility (km): 10
+Humidity : 0 %
+Total Precipitation (mm): 0
+Condition: Sunny
+
+Time: 2024-01-14 18:00
+Temperature C: 17.1
+Wind Speed (kph): 6.1
+Chance of Rain : 0 %
+Chance of Snow : 0 %
+Visibility (km): 10
+Humidity : 0 %
+Total Precipitation (mm): 0
+Condition: Clear
+
+Time: 2024-01-14 19:00
+Temperature C: 16
+Wind Speed (kph): 5.8
+Chance of Rain : 0 %
+Chance of Snow : 0 %
+Visibility (km): 10
+Humidity : 0 %
+Total Precipitation (mm): 0
+Condition: Clear
+
+Time: 2024-01-14 20:00
+Temperature C: 15.1
+Wind Speed (kph): 4.7
+Chance of Rain : 0 %
+Chance of Snow : 0 %
+Visibility (km): 10
+Humidity : 0 %
+Total Precipitation (mm): 0
+Condition: Clear
+
+Time: 2024-01-14 21:00
+Temperature C: 14.4
+Wind Speed (kph): 4
+Chance of Rain : 0 %
+Chance of Snow : 0 %
+Visibility (km): 10
+Humidity : 0 %
+Total Precipitation (mm): 0
+Condition: Clear
+
+Time: 2024-01-14 22:00
+Temperature C: 13.8
+Wind Speed (kph): 4
+Chance of Rain : 0 %
+Chance of Snow : 0 %
+Visibility (km): 10
+Humidity : 0 %
+Total Precipitation (mm): 0
+Condition: Clear
+
+Time: 2024-01-14 23:00
+Temperature C: 13.4
+Wind Speed (kph): 5.4
+Chance of Rain : 0 %
+Chance of Snow : 0 %
+Visibility (km): 10
+Humidity : 0 %
+Total Precipitation (mm): 0
+Condition: Clear
+
+

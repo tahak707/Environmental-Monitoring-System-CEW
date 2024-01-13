@@ -1,0 +1,50 @@
+Critical anomaly detected in Wind Speed: 25.9
+Precaution: Secure outdoor objects and be cautious of strong winds.
+Critical anomaly detected in Wind Speed: 25.9
+Precaution: Secure outdoor objects and be cautious of strong winds.
+Critical anomaly detected in Wind Speed: 19.4
+Precaution: Secure outdoor objects and be cautious of strong winds.
+Critical anomaly detected in Wind Speed: 22.3
+Precaution: Secure outdoor objects and be cautious of strong winds.
+Critical anomaly detected in Wind Speed: 17.6
+Precaution: Secure outdoor objects and be cautious of strong winds.
+Critical anomaly detected in Temperature: 28
+Precaution: Take necessary measures to stay cool.
+Critical anomaly detected in Wind Speed: 11.2
+Precaution: Secure outdoor objects and be cautious of strong winds.
+Critical anomaly detected in Temperature: 22.6
+Precaution: Take necessary measures to stay cool.
+Critical anomaly detected in Wind Speed: 15.1
+Precaution: Secure outdoor objects and be cautious of strong winds.
+Critical anomaly detected in Temperature: 23.9
+Precaution: Take necessary measures to stay cool.
+Critical anomaly detected in Wind Speed: 14
+Precaution: Secure outdoor objects and be cautious of strong winds.
+Critical anomaly detected in Temperature: 24.5
+Precaution: Take necessary measures to stay cool.
+Critical anomaly detected in Wind Speed: 14.4
+Precaution: Secure outdoor objects and be cautious of strong winds.
+Critical anomaly detected in Temperature: 25
+Precaution: Take necessary measures to stay cool.
+Critical anomaly detected in Wind Speed: 11.5
+Precaution: Secure outdoor objects and be cautious of strong winds.
+Critical anomaly detected in Wind Speed: 20.2
+Precaution: Secure outdoor objects and be cautious of strong winds.
+Critical anomaly detected in Wind Speed: 37.4
+Precaution: Secure outdoor objects and be cautious of strong winds.
+Critical anomaly detected in Wind Speed: 32.4
+Precaution: Secure outdoor objects and be cautious of strong winds.
+Critical anomaly detected in Wind Speed: 20.2
+Precaution: Secure outdoor objects and be cautious of strong winds.
+Critical anomaly detected in Wind Speed: 37.4
+Precaution: Secure outdoor objects and be cautious of strong winds.
+Critical anomaly detected in Wind Speed: 32.4
+Precaution: Secure outdoor objects and be cautious of strong winds.
+Critical anomaly detected in Wind Speed: 10.1
+Precaution: Secure outdoor objects and be cautious of strong winds.
+Critical anomaly detected in Wind Speed: 10.1
+Precaution: Secure outdoor objects and be cautious of strong winds.
+Critical anomaly detected in Wind Speed: 10.1
+Precaution: Secure outdoor objects and be cautious of strong winds.
+Critical anomaly detected in Wind Speed: 10.1
+Precaution: Secure outdoor objects and be cautious of strong winds.
